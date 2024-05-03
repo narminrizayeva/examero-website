@@ -1,0 +1,104 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+}
+.justify-center {
+    justify-content: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.justify-around {
+    justify-content: space-around;
+}
+.justify-evenly {
+    justify-content: space-evenly;
+}
+.items-center {
+    align-items: center;
+}
+.items-start {
+    align-items: start;
+}
+.flex-col {
+    flex-direction: column;
+}
+.text-center {
+    text-align: center;
+}
+.img-cover {
+    object-fit: cover;
+}
+.img-contain {
+    object-fit: contain;
+}
+.flex-1 {
+    flex-grow: 1;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.end {
+    justify-content: end;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.pos-fix {
+    position: fixed;
+    top: 0;
+}
+
+.pos-st {
+    position: sticky;
+}
+
+.contain {
+    object-fit: contain;
+}
+.cover{
+    object-fit: cover;
+}
+
+.hidden {
+    overflow: hidden;
+}
+.capitalize{
+    text-transform: capitalize;
+}
